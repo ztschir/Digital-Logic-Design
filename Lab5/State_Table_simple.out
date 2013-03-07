@@ -1,0 +1,11 @@
+
+     Simplification Routine:  Petrick All
+
+D(Q1) =  X'Q3 + Q2'Q3 + Q1 Q3 
+
+D(Q2) =  Q2' + X + Q3 
+
+D(Q3) =  X' + Q1 Q3 
+
+Z  =  X'Q1 Q3' 
+

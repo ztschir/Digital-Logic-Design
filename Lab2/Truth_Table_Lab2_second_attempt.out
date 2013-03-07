@@ -1,0 +1,21 @@
+
+     Simplification Routine:  Petrick 5
+
+W  =  (A + B + C ) (C + D ) (B'+ C + E ) 
+
+W  =  (A + B + C ) (C + D ) (A + C + E ) 
+
+X  =  (A + B + D ) (B'+ C + E') (A'+ C + E ) (B'+ C + D ) 
+
+X  =  (A + B + D ) (B'+ C + E') (A'+ C + E ) (C + D + E ) 
+
+X  =  (A + B + D ) (B'+ C + E') (A'+ C + E ) (A + C + D ) 
+
+Y  =  (A + B + E ) (B'+ C + D'+ E') (A'+ C + D ) (B'+ D + E ) 
+
+Y  =  (A + B + E ) (B'+ C + D'+ E') (A'+ C + D ) (A + D + E ) 
+
+Z  =  (A + B ) (C + E ) (B'+ D + E ) 
+
+Z  =  (A + B ) (C + E ) (A + D + E ) 
+

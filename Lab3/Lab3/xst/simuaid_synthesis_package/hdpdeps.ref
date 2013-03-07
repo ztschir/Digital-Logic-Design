@@ -1,0 +1,242 @@
+V3 117
+FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd 2004/05/03.10:31:46 K.31
+PH SimUAid_Synthesis_Package/SimUAid_synthesis_pack 1348678517 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566 \
+      CD and2 CD and3 CD and4 CD and5 CD or2 CD or3 CD or4 CD or5 CD nand2 CD nand3 \
+      CD nand4 CD nand5 CD nor2 CD nor3 CD nor4 CD nor5 CD xor2 CD xnor2 CD inverter \
+      CD Dflipflop CD JKflipflop CD Counter CD LoadableCounter CD nbitRegister \
+      CD NBitAdder CD NWideMux CD ShiftRegLS CD ShiftRegRS CD ShiftRegBidir \
+      CD NBitTristate CD complementer CD FullAdder CD Decoder_2_to_4 \
+      CD Decoder_3_to_8 CD MUX_2_to_1 CD MUX_4_to_1 CD MUX_8_to_1 CD tristateBuf
+PB SimUAid_Synthesis_Package/SimUAid_synthesis_pack 1348678518 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      PH SimUAid_Synthesis_Package/SimUAid_synthesis_pack 1348678517
+EN SimUAid_Synthesis_Package/and2 1348678519 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/and2/behavior 1348678520 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/and2 1348678519
+EN SimUAid_Synthesis_Package/and3 1348678521 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/and3/behavior 1348678522 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/and3 1348678521
+EN SimUAid_Synthesis_Package/and4 1348678523 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/and4/behavior 1348678524 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/and4 1348678523
+EN SimUAid_Synthesis_Package/and5 1348678525 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/and5/behavior 1348678526 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/and5 1348678525
+EN SimUAid_Synthesis_Package/or2 1348678527 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/or2/behavior 1348678528 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/or2 1348678527
+EN SimUAid_Synthesis_Package/or3 1348678529 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/or3/behavior 1348678530 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/or3 1348678529
+EN SimUAid_Synthesis_Package/or4 1348678531 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/or4/behavior 1348678532 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/or4 1348678531
+EN SimUAid_Synthesis_Package/or5 1348678533 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/or5/behavior 1348678534 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/or5 1348678533
+EN SimUAid_Synthesis_Package/nand2 1348678535 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nand2/behavior 1348678536 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nand2 1348678535
+EN SimUAid_Synthesis_Package/nand3 1348678537 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nand3/behavior 1348678538 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nand3 1348678537
+EN SimUAid_Synthesis_Package/nand4 1348678539 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nand4/behavior 1348678540 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nand4 1348678539
+EN SimUAid_Synthesis_Package/nand5 1348678541 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nand5/behavior 1348678542 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nand5 1348678541
+EN SimUAid_Synthesis_Package/nor2 1348678543 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nor2/behavior 1348678544 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nor2 1348678543
+EN SimUAid_Synthesis_Package/nor3 1348678545 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nor3/behavior 1348678546 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nor3 1348678545
+EN SimUAid_Synthesis_Package/nor4 1348678547 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nor4/behavior 1348678548 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nor4 1348678547
+EN SimUAid_Synthesis_Package/nor5 1348678549 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nor5/behavior 1348678550 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nor5 1348678549
+EN SimUAid_Synthesis_Package/xor2 1348678551 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/xor2/behavior 1348678552 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/xor2 1348678551
+EN SimUAid_Synthesis_Package/xnor2 1348678553 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/xnor2/behavior 1348678554 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/xnor2 1348678553
+EN SimUAid_Synthesis_Package/inverter 1348678555 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/inverter/behavior 1348678556 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/inverter 1348678555
+EN SimUAid_Synthesis_Package/Dflipflop 1348678557 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/Dflipflop/behavior 1348678558 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/Dflipflop 1348678557
+EN SimUAid_Synthesis_Package/JKflipflop 1348678559 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/JKflipflop/behavior 1348678560 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/JKflipflop 1348678559
+EN SimUAid_Synthesis_Package/Counter 1348678561 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/Counter/behavior 1348678562 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/Counter 1348678561
+EN SimUAid_Synthesis_Package/LoadableCounter 1348678563 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/LoadableCounter/behavior 1348678564 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/LoadableCounter 1348678563
+EN SimUAid_Synthesis_Package/nbitRegister 1348678565 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/nbitRegister/behavior 1348678566 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/nbitRegister 1348678565
+EN SimUAid_Synthesis_Package/NBitAdder 1348678567 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/NBitAdder/behavior 1348678568 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/NBitAdder 1348678567
+EN SimUAid_Synthesis_Package/NWideMux 1348678569 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/NWideMux/behavior 1348678570 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/NWideMux 1348678569
+EN SimUAid_Synthesis_Package/ShiftRegLS 1348678571 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/ShiftRegLS/behavior 1348678572 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/ShiftRegLS 1348678571
+EN SimUAid_Synthesis_Package/ShiftRegRS 1348678573 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/ShiftRegRS/behavior 1348678574 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/ShiftRegRS 1348678573
+EN SimUAid_Synthesis_Package/ShiftRegBidir 1348678575 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/ShiftRegBidir/behavior 1348678576 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/ShiftRegBidir 1348678575
+EN SimUAid_Synthesis_Package/NBitTristate 1348678577 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/NBitTristate/behavior 1348678578 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/NBitTristate 1348678577
+EN SimUAid_Synthesis_Package/Complementer 1348678579 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/Complementer/behavior 1348678580 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/Complementer 1348678579
+EN SimUAid_Synthesis_Package/FullAdder 1348678581 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/FullAdder/behavior 1348678582 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/FullAdder 1348678581
+EN SimUAid_Synthesis_Package/Decoder_2_to_4 1348678583 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/Decoder_2_to_4/behavior 1348678584 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/Decoder_2_to_4 1348678583
+EN SimUAid_Synthesis_Package/Decoder_3_to_8 1348678585 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/Decoder_3_to_8/behavior 1348678586 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/Decoder_3_to_8 1348678585
+EN SimUAid_Synthesis_Package/MUX_2_to_1 1348678587 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/MUX_2_to_1/behavior 1348678588 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/MUX_2_to_1 1348678587
+EN SimUAid_Synthesis_Package/MUX_4_to_1 1348678589 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/MUX_4_to_1/behavior 1348678590 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/MUX_4_to_1 1348678589
+EN SimUAid_Synthesis_Package/MUX_8_to_1 1348678591 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/MUX_8_to_1/behavior 1348678592 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/MUX_8_to_1 1348678591
+EN SimUAid_Synthesis_Package/Tristatebuf 1348678593 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566
+AR SimUAid_Synthesis_Package/Tristatebuf/behavior 1348678594 \
+      FL C:/Users/zst75/Lab3/SimUAid_Synthesis_Package.vhd \
+      EN SimUAid_Synthesis_Package/Tristatebuf 1348678593

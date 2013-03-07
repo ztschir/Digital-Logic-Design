@@ -1,0 +1,19 @@
+
+     Simplification Routine:  Petrick 5
+
+W  =  C + B D E + A D 
+
+X  =  B C + A E + A C + A'D E' + A'B'D 
+
+X  =  B C + A E + A C + A'B'D + B D E' 
+
+X  =  B C + A E + A C + B'D E + A'D E' 
+
+Y  =  B D E' + A D + A C + B'D E + A'D'E + C E 
+
+Y  =  B D E' + A D + A C + A'B'E + C E + B D'E 
+
+Y  =  B D E' + A D + A C + A'D'E + A'B'E + C E 
+
+Z  =  B E + B C D + A E + A C 
+

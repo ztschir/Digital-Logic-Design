@@ -1,0 +1,5 @@
+  force Clk 0 0, 1 100  -repeat 200
+  force St 1 100, 0 300
+  force BusValue 1110 100, 0011 300, 0101 500
+  force Rst 0 0 -repeat 200
+  run 3000

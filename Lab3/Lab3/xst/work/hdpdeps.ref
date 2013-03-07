@@ -1,0 +1,9 @@
+V3 8
+FL C:/Users/zst75/Lab3/Lab3.vhd 2012/09/26.11:54:27 K.31
+EN work/Lab3 1348678595 FL C:/Users/zst75/Lab3/Lab3.vhd PB ieee/std_logic_1164 1200023565 \
+      PB ieee/STD_LOGIC_UNSIGNED 1200023567 PB ieee/std_logic_arith 1200023566 \
+      LB SimUAid_synthesis_Package \
+      PB SimUAid_Synthesis_Package/SimUAid_synthesis_pack 1348678518
+AR work/Lab3/Structure 1348678596 \
+      FL C:/Users/zst75/Lab3/Lab3.vhd EN work/Lab3 1348678595 CP nor3 CP nor2 \
+      CP inverter CP nor4
